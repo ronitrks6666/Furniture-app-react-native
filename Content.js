@@ -36,7 +36,7 @@ export const data = [
       "name": "Bed",
       "price": 1000,
       "description": "Built with the finest wood in Greece. Handcrafted by the best craftsmen in the world.",
-      "image": require("./assets/shoeRack.jpg"),
+      "image": require("./assets/bed.jpg"),
       "color":["#000000", "#FFFFFF", "#FF0000", "#00FF00", "#0000FF"]
     }
   ]
